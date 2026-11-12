@@ -1,0 +1,1 @@
+No proprietary binary files are included. The original vendor DLL and any patched form of it must not be uploaded to this project. The technical notes and patch script were independently prepared. Respect the vendor license and applicable law.
